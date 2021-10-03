@@ -1,0 +1,10 @@
+node_modules
+.open_zeppelin/**/*
+#Hardhat files
+cache
+artifacts
+.openzeppelin/
+typechain/
+.codeshi.*.json
+secrets.json
+.next
